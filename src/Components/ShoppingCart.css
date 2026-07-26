@@ -17,6 +17,7 @@
     justify-content: space-between;
     align-items: center;
     margin-bottom: 10px;
+    
   }
   
   .remove-item-btn {
@@ -36,4 +37,8 @@
     border-radius: 5px;
     cursor: pointer;
     margin-top: 10px;
+  }
+
+  .quantity{
+    margin-inline: 0.5em;
   }
